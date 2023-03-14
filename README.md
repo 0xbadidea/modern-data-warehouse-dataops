@@ -40,8 +40,8 @@ The samples are either focused on a single azure service (**Single Tech Samples*
   - [IaC - Cluster Provisioning and Secure Data Access](single_tech_samples/databricks/sample3_cluster_provisioning_and_data_access/)
   - [CI/CD - Databricks](single_tech_samples/databricks/sample4_ci_cd/)
 - [Stream Analytics](single_tech_samples/streamanalytics/)
-- [Azure Purview](single_tech_samples/purview/)
-  - [IaC - Azure Purview](single_tech_samples/purview/)
+- [Microsoft Purview](single_tech_samples/purview/)
+  - [IaC - Azure Purview](single_tech_samples/purview/sample1_ms_purview_in_mdw/)
 - [Azure Data Share](single_tech_samples/datashare/)
 
 ## End to End samples
