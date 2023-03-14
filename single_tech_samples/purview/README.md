@@ -2,5 +2,5 @@
 
 ## Samples
 
-1. [Microsoft Purview in MDW](sample1_ms_purview_in_mdw/README.md) - this demonstrates how to help enable configuration-based pipelines by showcasing dynamically loading data transformation modules.
-2. [Data Plane Purview permissions release management](sample2_data_plane_permissions_release_mng/README.md) - this demonstrates how to work with synapse serverless and delta files, overcoming automation challenges and implementing CLS (Column Level Security) through the use of views implemented on top of the delta files.
+1. [Microsoft Purview in MDW](sample1_ms_purview_in_mdw/README.md) - this sample demonstrates how to provision Microsoft Purview and connect it to other parts of the modern data warehouse, like Azure Data Lake, Azure Data Factory and Azure Key Vault.
+2. [Data Plane Purview permissions release management](sample2_data_plane_permissions_release_mng/README.md) - this sample implements a github action that allows to assign any purview permission(s) to a user or security group, facilitating the automation on the release management of the permissions process.
